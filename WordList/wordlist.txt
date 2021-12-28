@@ -1,0 +1,10 @@
+We list the pure gender words to form D.
+
+Male words: he, him, man, his, himself, son, father, guy, boy, male, men, sons, fathers, guys, boys, males, sir, gentleman, gentlemen, mr
+
+
+Female words: she, her, woman, hers, herself, daughter, mother, gal, girl, female, women, daughters, mothers, gals, girls, females, madam, lady, ladies, mrs
+
+
+D is formed by subtraction of each word in Male words with corresponding word in Female words.
+P is also formed by subtraction of each word in Male word in P with corresponding word in P_Female words.

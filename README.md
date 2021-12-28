@@ -1,1 +1,21 @@
 # Word_Debias_DeSIR
+
+## Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving (AAAI 2022)
+
+### Our paper Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving is accepted by AAAI 2022. The arXiv version of the paper: https://arxiv.org/abs/2112.05194
+
+This repo contains the code for the paper.
+
+
+The original GloVe embedding (pre-trained on 2017 January dump of English Wikipedia) can be downloaded here: https://drive.google.com/file/d/1w7tl3xSg69L1zURTpQ6qDg0uXab_XKFw/view?usp=sharing 
+
+
+R_codes contains R code for calculate screening and Y_hat for P-DeSIP and U-DeSIP and Semantic information preservation experiment.
+
+residual notebook for calucate residual Y_delta_ortho and final output of debiased embedding.
+
+Wordlist document contains word list and corresponding word vectors(from original GloVe).
+
+Evaluation folder and notebook calculate result for experiments section.
+
+Document DownStreamTasks contains code for training the downstream task, including POS, POS chunking and NER.
