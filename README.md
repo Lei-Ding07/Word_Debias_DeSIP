@@ -19,3 +19,10 @@ Wordlist document contains word list and corresponding word vectors(from origina
 Evaluation folder and notebook calculate result for experiments section.
 
 Document DownStreamTasks contains code for training the downstream task, including POS, POS chunking and NER.
+
+
+
+
+This work was supported by the Economic and Social Research Council (ESRC ES/T012382/1) and the Social Sciences and Humanities Research Council (SSHRC 2003-
+2019-0003) under the scheme of the Canada-UK Artificial
+Intelligence Initiative. The project title is BIAS: Responsible AI for Gender and Ethnic Labour Market Equality
