@@ -1,4 +1,4 @@
-# Word_Debias_DeSIR
+# Word_Debias_DeSIP
 
 ## Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving (AAAI 2022)
 
