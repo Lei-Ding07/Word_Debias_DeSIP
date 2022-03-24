@@ -10,7 +10,9 @@ This repo contains the code for the paper.
 Our debiased embedding:
 
 U-Desip: https://drive.google.com/file/d/1xIbODofL-rGhH70uH0Kh7WSGAsFyD18t/view?usp=sharing
+
 P-Desip: https://drive.google.com/file/d/1Q14-FLXmBn6K3pUUiHpv-D6kKhoVuHJ-/view?usp=sharing
+
 You can use the load_embedding.py file to load the embeddings.
 
 ---
