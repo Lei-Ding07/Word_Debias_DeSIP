@@ -6,6 +6,14 @@
 
 This repo contains the code for the paper.
 
+---
+Our debiased embedding:
+
+U-Desip: https://drive.google.com/file/d/1xIbODofL-rGhH70uH0Kh7WSGAsFyD18t/view?usp=sharing
+P-Desip: https://drive.google.com/file/d/1Q14-FLXmBn6K3pUUiHpv-D6kKhoVuHJ-/view?usp=sharing
+You can use the load_embedding.py file to load the embeddings.
+
+---
 
 The original GloVe embedding (pre-trained on 2017 January dump of English Wikipedia) can be downloaded here: https://drive.google.com/file/d/1w7tl3xSg69L1zURTpQ6qDg0uXab_XKFw/view?usp=sharing 
 
