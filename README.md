@@ -30,7 +30,15 @@ Evaluation folder and notebook calculate result for experiments section.
 
 Document DownStreamTasks contains code for training the downstream task, including POS, POS chunking and NER.
 
-
+### Cite
+```
+@article{ding2021word,
+  title={Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving},
+  author={Ding, Lei and Yu, Dengdeng and Xie, Jinhan and Guo, Wenxing and Hu, Shenggang and Liu, Meichen and Kong, Linglong and Dai, Hongsheng and Bao, Yanchun and Jiang, Bei},
+  journal={arXiv preprint arXiv:2112.05194},
+  year={2021}
+}
+```
 
 ---
 This work was supported by the Economic and Social Research Council (ESRC ES/T012382/1) and the Social Sciences and Humanities Research Council (SSHRC 2003-
