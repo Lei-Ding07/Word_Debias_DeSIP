@@ -2,8 +2,6 @@
 
 ## Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving (AAAI 2022)
 
-### Our paper Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving is accepted by AAAI 2022. The arXiv version of the paper: https://arxiv.org/abs/2112.05194
-
 This repo contains the code for the paper.
 
 ---
